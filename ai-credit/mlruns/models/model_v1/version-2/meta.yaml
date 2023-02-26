@@ -1,0 +1,12 @@
+creation_timestamp: 1677397222368
+current_stage: None
+description: null
+last_updated_timestamp: 1677397222368
+name: model_v1
+run_id: 4ce40966121b4cedbe3872b0c982b64c
+run_link: null
+source: file:///C:/Users/BRAVO15/Documents/AICredit_KedroMlflow/ai-credit/mlruns/941840633983894258/4ce40966121b4cedbe3872b0c982b64c/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 2

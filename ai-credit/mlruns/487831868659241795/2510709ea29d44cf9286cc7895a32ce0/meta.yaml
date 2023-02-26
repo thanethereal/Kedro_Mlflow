@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BRAVO15/Documents/AICredit_KedroMlflow/ai-credit/mlruns/487831868659241795/2510709ea29d44cf9286cc7895a32ce0/artifacts
+end_time: 1677388459616
+entry_point_name: ''
+experiment_id: '487831868659241795'
+lifecycle_stage: active
+run_id: 2510709ea29d44cf9286cc7895a32ce0
+run_name: __default__
+run_uuid: 2510709ea29d44cf9286cc7895a32ce0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677388459348
+status: 4
+tags: []
+user_id: BRAVO15
